@@ -89,6 +89,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="javalibrary\javatest.js" />
+    <Content Include="javalibrary\javatest2.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
